@@ -27,7 +27,9 @@ Normally, you would re-process 1, 2, and 3. However, you already have results fo
 ![Showcase GIF: With PickMeUp](img/with_pickmeup.gif)
 
 ## Installation
-TODO
+```
+pip install pickmeup
+```
 
 ## Usage
 Create a context using your list and a name, and use the context element as your list:

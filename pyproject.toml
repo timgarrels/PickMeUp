@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "pickmeup"
+version = "0.0.1"
+authors = [
+  { name="Tim Garrels", email="tim.garrels@protonmail.com" },
+]
+description = "Pick up failed list processing without re-processing"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/timgarrels/PickMeUp"
+"Bug Tracker" = "https://github.com/timgarrels/PickMeUp/issues"

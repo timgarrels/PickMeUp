@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "pickmeup"
-version = "0.0.2"
+version = "0.0.3"
 authors = [
   { name="Tim Garrels", email="tim.garrels@protonmail.com" },
 ]
@@ -20,3 +20,4 @@ classifiers = [
 [project.urls]
 "Homepage" = "https://github.com/timgarrels/PickMeUp"
 "Bug Tracker" = "https://github.com/timgarrels/PickMeUp/issues"
+"Repository" = "https://github.com/timgarrels/PickMeUp"

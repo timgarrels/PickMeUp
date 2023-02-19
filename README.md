@@ -17,12 +17,14 @@ Normally, you would re-process 1, 2, and 3. However, you already have results fo
 1. Process 1,2,3
 2. Fix `process`
 3. Process 1,2,3,4,5,6,7,8 
-![Shocase GIF: Without PickMeUp](img/without_pickmeup.gif)
+
+![Showcase GIF: Without PickMeUp](img/without_pickmeup.gif)
 ### With PickMeUp
 1. Process 1,2,3
 2. Fix `process`
 3. Process 4,5,6,7,8
-![Shocase GIF: With PickMeUp](img/with_pickmeup.gif)
+
+![Showcase GIF: With PickMeUp](img/with_pickmeup.gif)
 
 ## Installation
 TODO
